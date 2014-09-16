@@ -7,4 +7,6 @@ Application.run(function ($rootScope) {
          * e.g. Variables.staticVariable1.getData()
          */
     };
+    
+    $rootScope.abcdef = "abcdefghijklmnopqrstuvwxyz hahahahahahahahahahhahahahahahah";
 });
